@@ -16,3 +16,4 @@ npm i
 npm run dev
 ```
 
+<img width="2734" height="3494" alt="localhost_8080_" src="https://github.com/user-attachments/assets/976bad3a-56bd-4b9a-9596-412225a83cdf" />
